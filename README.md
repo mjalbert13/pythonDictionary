@@ -1,2 +1,2 @@
 # pythonDictionary
-An interactive English dictionary using python 
+An interactive comand line English dictionary using python 
